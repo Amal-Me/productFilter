@@ -1,0 +1,8 @@
+.btn {
+    background-color: transparent;
+}
+
+/* au survol */
+.btn:hover {
+    background-color: orangered;
+}
